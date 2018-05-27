@@ -1,0 +1,2 @@
+# Sala
+event organising app
